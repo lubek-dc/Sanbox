@@ -1,0 +1,7 @@
+name: Sandbox
+version: ${project.version}
+main: me.lubek.sandbox.Sandbox
+api-version: 1.16
+depend: [ LobbyControl ]
+authors: [ lubek ]
+description: Sandbox plugin
