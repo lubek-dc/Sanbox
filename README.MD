@@ -6,4 +6,4 @@ SandBox is a game where the goal is to push other players onto diamond blocks an
 * Config file support (needs core)
 
 ### Requires: 
-* <a href = "https://github.com/lubek-dc/Lobbycontrol"> Lobby Control Plugin (Core) minimal version v1.1 </a>
+* <a href = "https://github.com/lubek-dc/Lobbycontrol"> Lobby Control Plugin (Core) minimal version v1.1 :)</a>
